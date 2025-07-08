@@ -43,14 +43,6 @@ I'm a Computer Science student who's passionate about building impactful web and
 
 👉 Explore more at [Pranavsai1410.github.io](https://Pranavsai1410.github.io)
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranavsai1410&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavsai1410&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavsai1410&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
@@ -66,5 +58,5 @@ I'm a Computer Science student who's passionate about building impactful web and
 
 <div align="center">
   <p><i>"Code is poetry, and I'm writing my masterpiece."</i></p>
-  <img src="https://media.giphy.com/media/L1R1tvI8svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding Poetry GIF" />
 </div>

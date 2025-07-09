@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Pranavsai Padala</h1>
   <h3>A Passionate Software Developer Crafting Innovative Solutions</h3>
-  <img src="https://komarev.com/ghpvc/?username=Pranavsai1410&color=brightgreen" alt="Profile views" />
   <p>
     <a href="https://www.linkedin.com/in/pranavsai-padala" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />

@@ -38,7 +38,7 @@ I'm a Computer Science student who's passionate about building impactful web and
 |---------|-------------|------------|-------|
 | **Unisphere** | A web app for seamless college event management, featuring scheduling and user-friendly interfaces. | React, NodeJS, MongoDB | [GitHub](https://github.com/Pranavsai1410/Unisphere) |
 | **EduMind** | An AI-powered study companion with real-time Q&A and quiz generation for personalized learning. | React Native, Flask, Mistral LLM | [GitHub](https://github.com/Pranavsai1410/EduMind) |
-| **Image Segmentation System** | High-accuracy object detection and segmentation using YOLOv3 and PointRend for real-time applications. | Python, OpenCV, PixelLib | [GitHub](https://github.com/Pranavsai1410/Image-Segmentation) |
+| **Image Segmentation System** | High-accuracy object detection and segmentation using YOLOv3 and PointRend for real-time applications. | Python, OpenCV, PixelLib | [GitHub](https://github.com/Pranavsai1410/Object-Detection-System) |
 
 👉 Explore more at [Pranavsai1410.github.io](https://Pranavsai1410.github.io)
 

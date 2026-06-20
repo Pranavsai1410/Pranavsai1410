@@ -19,7 +19,6 @@
 ### 🚀 About Me
 I'm a Computer Science student who's passionate about building impactful web and mobile applications. I love brainstorming creative ideas and turning them into reality with code. Currently, I'm diving deep into **full-stack development** with a focus on ReactJS, NodeJS, and MongoDB.
 
-- 🔭 **Working on**: [Unisphere](https://github.com/Pranavsai1410/Unisphere) - A college event management app streamlining planning and engagement.
 - 🌱 **Learning**: ReactJS, MongoDB, NodeJS, and exploring AI-driven features for educational tools.
 - ⚡ **Fun Fact**: I thrive on solving complex problems and sketching out new project ideas over coffee!
 

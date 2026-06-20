@@ -21,7 +21,6 @@ I'm a Computer Science student who's passionate about building impactful web and
 
 - 🔭 **Working on**: [Unisphere](https://github.com/Pranavsai1410/Unisphere) - A college event management app streamlining planning and engagement.
 - 🌱 **Learning**: ReactJS, MongoDB, NodeJS, and exploring AI-driven features for educational tools.
-- 📄 **Resume**: [View my experiences](https://drive.google.com/file/d/1LezB6JkENn_wfFTxLBvQeOmVMsUuPG5s/view?usp=drivesdk)
 - ⚡ **Fun Fact**: I thrive on solving complex problems and sketching out new project ideas over coffee!
 
 ---
@@ -36,7 +35,7 @@ I'm a Computer Science student who's passionate about building impactful web and
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Unisphere** | A web app for seamless college event management, featuring scheduling and user-friendly interfaces. | React, NodeJS, MongoDB | [GitHub](https://github.com/Pranavsai1410/Unisphere) |
+| **Azure Retail Mgmt** | Developed a cloud-based retail inventory management system using ASP.NET Core and Azure services, enabling secure API management, scalable inventory tracking, automated low-stock alerts, and secure secret management. | ASP.NET Core, Azure Services | [GitHub](https://github.com/Pranavsai1410/Azure-RetailManagementSystem) |
 | **EduMind** | An AI-powered study companion with real-time Q&A and quiz generation for personalized learning. | React Native, Flask, Mistral LLM | [GitHub](https://github.com/Pranavsai1410/EduMind) |
 | **Image Segmentation System** | High-accuracy object detection and segmentation using YOLOv3 and PointRend for real-time applications. | Python, OpenCV, PixelLib | [GitHub](https://github.com/Pranavsai1410/Object-Detection-System) |
 

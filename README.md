@@ -23,7 +23,7 @@
 
 I'm a final-year **Computer Science & Engineering** student at GRIET (CGPA: 8.92/10) with hands-on professional experience at **Cognizant Technology Solutions** as a Programmer Analyst Trainee. I build cloud-native web applications, AI-powered tools, and full-stack systems that solve real problems.
 
-- 💼 **Currently**: Programmer Analyst Trainee at **Cognizant**, working with C#, .NET, and Microsoft Azure
+- 💼 **Worked As**: Programmer Analyst Trainee at **Cognizant**, worked with C#, .NET, and Microsoft Azure
 - 🤖 **Interests**: AI/LLM-powered applications, Cloud Architecture, Full-Stack Development
 - 🌱 **Exploring**: Azure Services, ASP.NET Core, FastAPI, and LLM integration
 - 🎓 **Graduating**: B.Tech in Computer Science, July 2026
